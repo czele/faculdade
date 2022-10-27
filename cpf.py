@@ -4,6 +4,8 @@ from curses.ascii import isdigit
 cpf = input("Digite seu cpf (apenas números): ")
 soma = 0
 
+while cpf.isdigit() == False:
+    cpf = input("Por favor, digite apenas números: ")
 if cpf.isdigit() == True:
 # Achando a soma dos valores do cpf
     for x in cpf:
@@ -14,5 +16,3 @@ if cpf.isdigit() == True:
         print("Seu cpf é válido")
     else:
         print("Seu cpf não é válido")
-else:
-    print("Por favor, digite apenas números")
