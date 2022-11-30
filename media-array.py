@@ -17,7 +17,7 @@ for x in range(alunosclasse):
     medf.append(med)
 print("A lista com a nota dos alunos é: ", medf)
 
-# # Média da sala com for
+# Média da sala com for
 for x in medf:
     medsala = medsala + x
 print("A média da sala é: ", medsala/alunosclasse)
