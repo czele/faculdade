@@ -16,8 +16,7 @@ while ninicial <= nfinal:
     else:
         #Da forma compacta
         somaimpar += ninicial
-        contadorimpar += 1          
-        
+        contadorimpar += 1              
     ninicial += 1
 
 print("A soma dos números pares é ", somapar)

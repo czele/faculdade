@@ -3,7 +3,6 @@ medf = []
 medsala = 0
 
 # Média de cada aluno com for. O append é a função do Python para adicionar itens em um array
-
 for x in range(alunosclasse):
     nota1=float(input(f"Qual a nota da 1ª prova do aluno nº {x+1}: ")) 
     while (nota1<0 or nota1>10):

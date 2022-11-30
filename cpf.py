@@ -11,6 +11,7 @@ if cpf.isdigit() == True:
     for x in cpf:
         soma = soma + int(x)
     print(soma)
+    
 # Verificando se o cpf é válido
     if str(soma)[0] == str(soma)[1]:
         print("Seu cpf é válido")
