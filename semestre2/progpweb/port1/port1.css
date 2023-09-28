@@ -36,6 +36,11 @@
     justify-content: space-around
 }
 
+.main-historia {
+    margin: 40px 5%;
+    text-align: center;
+}
+
 .background {
     background-image: url('./Assets/0820dc2c6f8d727e9c0a4748ba3bfce74a7b8f70.jpg');
     background-repeat: repeat;
@@ -59,4 +64,21 @@
     justify-content: flex-start;
     gap: 50px;
     text-decoration: none;
+}
+
+#pcantigo {
+    padding: 20px;
+    float: left;
+    height: 400px;
+}
+
+#ibm {
+    padding: 20px;
+    float: right;
+    height: 400px;
+}
+
+.texto-historia {
+    text-align: justify;
+    padding: 15px;
 }
