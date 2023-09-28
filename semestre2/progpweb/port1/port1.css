@@ -9,10 +9,6 @@
     color: var(--dark-gray);
 }
 
-.apresentacao__links__link {
-    text-decoration: none;
-}
-
 .header {
     display: flex;
     flex-direction: row;
@@ -28,6 +24,7 @@
 .titulo {
     font-family: 'candara';
     font-size: 19px; 
+    text-decoration: none;
 }
 
 .main-contato {
@@ -81,4 +78,9 @@
 .texto-historia {
     text-align: justify;
     padding: 15px;
+}
+
+.titulo-texto {
+    margin-top: 20px;
+    text-align: center;
 }
