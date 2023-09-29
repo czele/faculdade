@@ -2,11 +2,17 @@
     padding: 0;
     margin: 0;
     vertical-align: baseline;
-    list-style: none;
     border: 0;
     box-sizing: border-box;
     font-family: 'Times new Roman', sans-serif;
     color: var(--dark-gray);
+    list-style-type: none;
+}
+
+.background {
+    background-image: url('./Assets/0820dc2c6f8d727e9c0a4748ba3bfce74a7b8f70.jpg');
+    background-repeat: repeat;
+    background-size: cover;
 }
 
 .header {
@@ -27,6 +33,7 @@
     text-decoration: none;
 }
 
+
 .main-contato {
     margin: 40px 5%;
     display: flex;
@@ -36,12 +43,6 @@
 .main-historia {
     margin: 40px 5%;
     text-align: center;
-}
-
-.background {
-    background-image: url('./Assets/0820dc2c6f8d727e9c0a4748ba3bfce74a7b8f70.jpg');
-    background-repeat: repeat;
-    background-size: cover;
 }
 
 .icon-img { 
@@ -60,7 +61,6 @@
     flex-direction: column;
     justify-content: flex-start;
     gap: 50px;
-    text-decoration: none;
 }
 
 #pcantigo {
@@ -134,3 +134,16 @@
 .card button:hover {
     opacity: 0.7;
 }
+
+.utilizacao {
+    float: left;
+    width: 50%;
+
+}
+
+.topico::after {
+    content: "";
+    display: table;
+    clear: both;
+
+  }
