@@ -146,4 +146,14 @@
     display: table;
     clear: both;
 
-  }
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 50%;
+    padding: 30px;
+    margin: 10px;
+    height: 1100px;
+}
