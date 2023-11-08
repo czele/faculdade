@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Material
+comment1.params=idMaterial\ descricaoM\ valor
+comment1.target=Material(int,\ java.lang.String,\ float)
+comment2.params=
+comment2.target=void\ exibeInformacoes()
+numComments=3

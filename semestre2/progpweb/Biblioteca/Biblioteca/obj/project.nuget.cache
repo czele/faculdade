@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "AZi4855R1TkSg/BGVAKvrJtRJdm8Ol2zZQT9Zs+1AP0RFYjDAAKf4tC2nr5WcbNwuMTKiKHcH2hmT2vJ2JvKMw==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\faculdade\\semestre2\\progpweb\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camila\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
